@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_9d60bcefb81da67466e160bb7088567b87ec02b6.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_b953ae80a2a5ced281d976a1ae4afc6273834848.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_7e60c8750dc5f49b172954ae1b819348836ffd4e.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_f70e6d1790d6cfba2ba2fbad3894db32eb1d7cd5.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_30c882d76cd6fc558edbf0fad75cb710ac5efc2b.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_cc4cfdddb007a57b067d2646c6be709e0f8a8301.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_91c66ccc14c54df52f1b7225fe3fb1fcf53b2be9.jar" />
+    </item>
+    <item
+        jar="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/exploded-aar/GuillotineMenu-Example Fragments - Android/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6c299cafa6feded3869e4e43357e871960102a5d">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/GuillotineMenu-Example Fragments - Android-library-unspecified_7731059b6c3cc0b7209587d4aa45dd1399449fe0.jar" />
+    </item>
+    <item
+        jar="/media/halimahanafy/LinuxFiles/ADTLinux_x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/halimahanafy/Desktop/GuillotineMenu-Example Fragments - Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_b670b5a1de8edda6733aef92325ef64ee9e02a04.jar" />
+    </item>
+
+</items>
